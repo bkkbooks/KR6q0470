@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0470_000.yaml, hash: 'sha256:caa9199bcf340c30e72f426905e69686fb338c7477cdf6c72b846bcc907abb5b'}
+  - {seq: 0, filename: KR6q0470_000.yaml, hash: 'sha256:7bbd53cac8a0f71abd14ca745de7e7ece3bbc06c62c95f2d153fdf92c028f543'}
   - {seq: 1, filename: KR6q0470_001.yaml, hash: 'sha256:60ab1ee6f8f85e314f8e8d21005205a9560f9aa0b19f05b642d951b383c4494e'}
   - {seq: 2, filename: KR6q0470_002.yaml, hash: 'sha256:d6651ffcab38cadb8a41ad995df10871eb7332eb24d4950f70bc03e443931331'}
   - {seq: 3, filename: KR6q0470_003.yaml, hash: 'sha256:6feee12331ece88fee96a4422c74f46c154d1d0439b89bc997f2a69cb0b37ee0'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0470_005.yaml, hash: 'sha256:e4025a0873dcf2ded6fbf2e63e2a6651325fdfe66d937f807e86575397a827b4'}
   - {seq: 6, filename: KR6q0470_006.yaml, hash: 'sha256:d2c41793977b6440be5bdc689a13cfb16197a5951944394e00e24688dfb05932'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0470_000.markers.yaml, hash: 'sha256:3e2ce814301e49dedf58411cfd621508f890af18d372b32900e2623df151e840'}
+  - {seq: 0, role: markers, filename: assets/KR6q0470_000.markers.yaml, hash: 'sha256:29a81a6fad88b743f16ad64d26d5357c68b04e6a388e29096550a9ade6b5106e'}
   - {seq: 1, role: markers, filename: assets/KR6q0470_001.markers.yaml, hash: 'sha256:d36dbc6e1873c53a36a8b33daf09d09568896d806faebf84402f829bb289a4ec'}
   - {seq: 2, role: markers, filename: assets/KR6q0470_002.markers.yaml, hash: 'sha256:2884b6769d4b28f1142a039d18ee01b042f1c97b79ece99648577625800e0f64'}
   - {seq: 3, role: markers, filename: assets/KR6q0470_003.markers.yaml, hash: 'sha256:492b377fa6d9a7732dd1f7a3b5c9911178c5d6b3dd085b7fbbe60373ee46c284'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0470_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0470_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 胡世安序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0470_J_000-mulu-3
     span:
-    - front
+    - body
     - 388
     - 388
   label: 朱之俊序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0470_J_000-mulu-4
     span:
-    - front
+    - body
     - 784
     - 784
   label: 目錄
@@ -1207,7 +1207,7 @@ table_of_contents:
   label: 雜著
   type: mulu
   level: 1
-hash: sha256:3e55e5a21bdff14017447bb538037166d16891a48cacd9a6b5254ee125c69a6c
+hash: sha256:e11b199e07d0a56bca7a429889354c3c361e722ebba29206867c80ede5d49a28
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
